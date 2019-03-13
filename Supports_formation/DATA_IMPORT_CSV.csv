@@ -1,0 +1,577 @@
+REGION_ID,REGION_DESC,CATEGORY_ID,CATEGORY_DESC,SUBCATEGORY_ID,SUBCATEGORY_DESC,YEAR_ID,REVENUE,COST,UNITS_SOLD
+4,Central,1,Books,11,Art & Architecture,2014,17492.45,13496.834,1067
+4,Central,1,Books,11,Art & Architecture,2015,22372.3,17221.763,1421
+4,Central,1,Books,11,Art & Architecture,2016,29395.45,22574.487,1769
+4,Central,1,Books,12,Business,2014,14588.65,11304.189,1077
+4,Central,1,Books,12,Business,2015,18946.95,14700.478,1399
+4,Central,1,Books,12,Business,2016,22788.4,17651.049,1677
+4,Central,1,Books,13,Literature,2014,11086.55,8890.739,1512
+4,Central,1,Books,13,Literature,2015,14698.6,11817.689,1992
+4,Central,1,Books,13,Literature,2016,17250.8,13880.932,2357
+4,Central,1,Books,14,Books - Miscellaneous,2014,12245.2,10179.624,1543
+4,Central,1,Books,14,Books - Miscellaneous,2015,15576.6,12945.335,1951
+4,Central,1,Books,14,Books - Miscellaneous,2016,18936.9,15728.505,2353
+4,Central,1,Books,15,Science & Technology,2014,30044.85,23224.578,934
+4,Central,1,Books,15,Science & Technology,2015,36203.8,27968.291,1192
+4,Central,1,Books,15,Science & Technology,2016,45989.5,35642.035,1455
+4,Central,1,Books,16,Sports & Health,2014,12743.95,9915.685,1052
+4,Central,1,Books,16,Sports & Health,2015,16247.55,12623.884,1344
+4,Central,1,Books,16,Sports & Health,2016,20227.45,15738.775,1672
+4,Central,2,Electronics,21,Audio Equipment,2014,133764.5,111002.0204,571
+4,Central,2,Electronics,21,Audio Equipment,2015,181532.5,151043.2678,729
+4,Central,2,Electronics,21,Audio Equipment,2016,223422,185809.594,909
+4,Central,2,Electronics,22,Cameras,2014,186981,153793.9666,427
+4,Central,2,Electronics,22,Cameras,2015,233885,191398.9436,538
+4,Central,2,Electronics,22,Cameras,2016,301501.5,247546.401,672
+4,Central,2,Electronics,23,Computers,2014,73762.65,60792.4224,640
+4,Central,2,Electronics,23,Computers,2015,92692.4,76042.1998,788
+4,Central,2,Electronics,23,Computers,2016,119928.95,98578.8004,1022
+4,Central,2,Electronics,24,Electronics - Miscellaneous,2014,181559.9,149857.0152,480
+4,Central,2,Electronics,24,Electronics - Miscellaneous,2015,225328.1,186197.6822,631
+4,Central,2,Electronics,24,Electronics - Miscellaneous,2016,275746.7,228476.2086,785
+4,Central,2,Electronics,25,TV's,2014,136439.05,112615.9396,549
+4,Central,2,Electronics,25,TV's,2015,185787.4,152457.0962,750
+4,Central,2,Electronics,25,TV's,2016,222378.6,182940.16,852
+4,Central,2,Electronics,26,Video Equipment,2014,194153.5,159260.1834,419
+4,Central,2,Electronics,26,Video Equipment,2015,235808.5,191817.815,532
+4,Central,2,Electronics,26,Video Equipment,2016,301390,246718.5528,673
+4,Central,3,Movies,31,Action,2014,22331.65,20926.458,1768
+4,Central,3,Movies,31,Action,2015,29972.25,28104.132,2376
+4,Central,3,Movies,31,Action,2016,36243.25,33936.293,2854
+4,Central,3,Movies,32,Comedy,2014,24426.85,23222.736,1950
+4,Central,3,Movies,32,Comedy,2015,31316.85,29733.671,2500
+4,Central,3,Movies,32,Comedy,2016,38546.1,36634.54,3086
+4,Central,3,Movies,33,Drama,2014,25996.75,24358.84,1748
+4,Central,3,Movies,33,Drama,2015,35009.25,32872.399,2345
+4,Central,3,Movies,33,Drama,2016,42293.45,39669.767,2829
+4,Central,3,Movies,34,Horror,2014,22677.5,21241.775,1845
+4,Central,3,Movies,34,Horror,2015,30447.85,28489.252,2475
+4,Central,3,Movies,34,Horror,2016,36172.8,33942.3105,2942
+4,Central,3,Movies,35,Kids / Family,2014,24149.35,22729.301,1689
+4,Central,3,Movies,35,Kids / Family,2015,33313.95,31256.0985,2339
+4,Central,3,Movies,35,Kids / Family,2016,39809.35,37385.524,2787
+4,Central,3,Movies,36,Special Interests,2014,29265.1,27179.844,1425
+4,Central,3,Movies,36,Special Interests,2015,39967.45,36860.798,1911
+4,Central,3,Movies,36,Special Interests,2016,47416.75,43803.7895,2284
+4,Central,4,Music,41,Alternative,2014,24671.5,24264.9216,1927
+4,Central,4,Music,41,Alternative,2015,33376.25,32902.2558,2614
+4,Central,4,Music,41,Alternative,2016,41024.95,40506.7977,3200
+4,Central,4,Music,42,Country,2014,26748.2,26504.5374,1978
+4,Central,4,Music,42,Country,2015,34491.7,34250.9976,2552
+4,Central,4,Music,42,Country,2016,43260.85,42828.2496,3192
+4,Central,4,Music,43,Music - Miscellaneous,2014,21918.9,19685.2077,1427
+4,Central,4,Music,43,Music - Miscellaneous,2015,29193,26181.3366,1816
+4,Central,4,Music,43,Music - Miscellaneous,2016,34830.8,31176.4464,2218
+4,Central,4,Music,44,Pop,2014,24854.3,24107.4648,1814
+4,Central,4,Music,44,Pop,2015,33334.35,32302.4697,2413
+4,Central,4,Music,44,Pop,2016,40578.6,39404.6001,2961
+4,Central,4,Music,45,Rock,2014,25118.2,24707.2509,1887
+4,Central,4,Music,45,Rock,2015,34439.45,33852.1761,2584
+4,Central,4,Music,45,Rock,2016,41480.85,40769.9163,3117
+4,Central,4,Music,46,Soul / R&B,2014,16613.75,14071.6656,1174
+4,Central,4,Music,46,Soul / R&B,2015,23061.95,19494.6021,1621
+4,Central,4,Music,46,Soul / R&B,2016,28113.95,23831.9154,1984
+2,Mid-Atlantic,1,Books,11,Art & Architecture,2014,15368,11887.525,953
+2,Mid-Atlantic,1,Books,11,Art & Architecture,2015,21398.05,16515.187,1350
+2,Mid-Atlantic,1,Books,11,Art & Architecture,2016,24901.6,19234.683,1543
+2,Mid-Atlantic,1,Books,12,Business,2014,13262.05,10344.971,967
+2,Mid-Atlantic,1,Books,12,Business,2015,17444.75,13519.428,1274
+2,Mid-Atlantic,1,Books,12,Business,2016,21073,16389.893,1545
+2,Mid-Atlantic,1,Books,13,Literature,2014,9657,7790.822,1328
+2,Mid-Atlantic,1,Books,13,Literature,2015,13198.85,10617.126,1780
+2,Mid-Atlantic,1,Books,13,Literature,2016,15112.95,12166.869,2080
+2,Mid-Atlantic,1,Books,14,Books - Miscellaneous,2014,10429.5,8715.122,1350
+2,Mid-Atlantic,1,Books,14,Books - Miscellaneous,2015,13733.45,11407.916,1713
+2,Mid-Atlantic,1,Books,14,Books - Miscellaneous,2016,16083.25,13407.485,2045
+2,Mid-Atlantic,1,Books,15,Science & Technology,2014,26920.1,20783.399,852
+2,Mid-Atlantic,1,Books,15,Science & Technology,2015,35016.4,27015.235,1089
+2,Mid-Atlantic,1,Books,15,Science & Technology,2016,42856.1,33028.32,1330
+2,Mid-Atlantic,1,Books,16,Sports & Health,2014,10393.55,8105.084,860
+2,Mid-Atlantic,1,Books,16,Sports & Health,2015,14024.45,10890.308,1167
+2,Mid-Atlantic,1,Books,16,Sports & Health,2016,16782.95,13042.9,1391
+2,Mid-Atlantic,2,Electronics,21,Audio Equipment,2014,127230.5,106094.2988,539
+2,Mid-Atlantic,2,Electronics,21,Audio Equipment,2015,144792,120187.5074,630
+2,Mid-Atlantic,2,Electronics,21,Audio Equipment,2016,187253.5,155956.4864,813
+2,Mid-Atlantic,2,Electronics,22,Cameras,2014,162859,133969.5858,374
+2,Mid-Atlantic,2,Electronics,22,Cameras,2015,227942.5,187449.8988,496
+2,Mid-Atlantic,2,Electronics,22,Cameras,2016,253821.5,208241.7516,579
+2,Mid-Atlantic,2,Electronics,23,Computers,2014,59338.9,48978.27,537
+2,Mid-Atlantic,2,Electronics,23,Computers,2015,77301.45,63778.3928,673
+2,Mid-Atlantic,2,Electronics,23,Computers,2016,97133.5,79838.428,852
+2,Mid-Atlantic,2,Electronics,24,Electronics - Miscellaneous,2014,154482.5,127019.179,425
+2,Mid-Atlantic,2,Electronics,24,Electronics - Miscellaneous,2015,209441.2,172902.638,584
+2,Mid-Atlantic,2,Electronics,24,Electronics - Miscellaneous,2016,245062.1,202208.2444,678
+2,Mid-Atlantic,2,Electronics,25,TV's,2014,137012.05,113134.8564,515
+2,Mid-Atlantic,2,Electronics,25,TV's,2015,162456.95,135083.278,670
+2,Mid-Atlantic,2,Electronics,25,TV's,2016,185497.65,152847.3832,746
+2,Mid-Atlantic,2,Electronics,26,Video Equipment,2014,153596.5,126188.0326,361
+2,Mid-Atlantic,2,Electronics,26,Video Equipment,2015,239469,197301.6222,511
+2,Mid-Atlantic,2,Electronics,26,Video Equipment,2016,282249.5,230067.0404,601
+2,Mid-Atlantic,3,Movies,31,Action,2014,19823.2,18633.7905,1585
+2,Mid-Atlantic,3,Movies,31,Action,2015,27226.4,25510.5895,2156
+2,Mid-Atlantic,3,Movies,31,Action,2016,32688.35,30691.657,2606
+2,Mid-Atlantic,3,Movies,32,Comedy,2014,22323,21258.624,1796
+2,Mid-Atlantic,3,Movies,32,Comedy,2015,28184.2,26750.1945,2267
+2,Mid-Atlantic,3,Movies,32,Comedy,2016,32514.85,30946.799,2626
+2,Mid-Atlantic,3,Movies,33,Drama,2014,22948.25,21555.8885,1539
+2,Mid-Atlantic,3,Movies,33,Drama,2015,29285.5,27492.754,1979
+2,Mid-Atlantic,3,Movies,33,Drama,2016,34578.9,32496.907,2327
+2,Mid-Atlantic,3,Movies,34,Horror,2014,20636.1,19393.199,1690
+2,Mid-Atlantic,3,Movies,34,Horror,2015,27171.5,25415.513,2213
+2,Mid-Atlantic,3,Movies,34,Horror,2016,33518.55,31477.5425,2732
+2,Mid-Atlantic,3,Movies,35,Kids / Family,2014,21531.65,20286.196,1512
+2,Mid-Atlantic,3,Movies,35,Kids / Family,2015,29734.2,27898.3335,2078
+2,Mid-Atlantic,3,Movies,35,Kids / Family,2016,33432.75,31433.013,2350
+2,Mid-Atlantic,3,Movies,36,Special Interests,2014,26474.95,24493.632,1283
+2,Mid-Atlantic,3,Movies,36,Special Interests,2015,34152.05,31499.2055,1622
+2,Mid-Atlantic,3,Movies,36,Special Interests,2016,42744.95,39439.8985,2033
+2,Mid-Atlantic,4,Music,41,Alternative,2014,23277.8,22992.8364,1825
+2,Mid-Atlantic,4,Music,41,Alternative,2015,29797.1,29344.9752,2334
+2,Mid-Atlantic,4,Music,41,Alternative,2016,35520.35,35160.5178,2781
+2,Mid-Atlantic,4,Music,42,Country,2014,23302.05,23047.7391,1731
+2,Mid-Atlantic,4,Music,42,Country,2015,32069.15,31681.9656,2355
+2,Mid-Atlantic,4,Music,42,Country,2016,36348.65,36042.0687,2696
+2,Mid-Atlantic,4,Music,43,Music - Miscellaneous,2014,19122.55,17215.6221,1225
+2,Mid-Atlantic,4,Music,43,Music - Miscellaneous,2015,25744.8,23106.7854,1625
+2,Mid-Atlantic,4,Music,43,Music - Miscellaneous,2016,30591.6,27550.7964,1983
+2,Mid-Atlantic,4,Music,44,Pop,2014,22818.5,22171.3677,1651
+2,Mid-Atlantic,4,Music,44,Pop,2015,29584.4,28828.0611,2180
+2,Mid-Atlantic,4,Music,44,Pop,2016,33733.45,32844.2454,2451
+2,Mid-Atlantic,4,Music,45,Rock,2014,22253.95,21964.1877,1680
+2,Mid-Atlantic,4,Music,45,Rock,2015,29664.15,29128.4721,2229
+2,Mid-Atlantic,4,Music,45,Rock,2016,36249,35675.3601,2728
+2,Mid-Atlantic,4,Music,46,Soul / R&B,2014,14946.75,12629.6928,1058
+2,Mid-Atlantic,4,Music,46,Soul / R&B,2015,19759.9,16757.7543,1388
+2,Mid-Atlantic,4,Music,46,Soul / R&B,2016,24265.25,20606.1228,1711
+1,Northeast,1,Books,11,Art & Architecture,2014,29130.05,22429.68,1787
+1,Northeast,1,Books,11,Art & Architecture,2015,39859.55,30662.112,2459
+1,Northeast,1,Books,11,Art & Architecture,2016,48443.25,37289.343,2936
+1,Northeast,1,Books,12,Business,2014,24399.25,19001.554,1813
+1,Northeast,1,Books,12,Business,2015,32034.05,24866.751,2347
+1,Northeast,1,Books,12,Business,2016,41559.25,32177.964,3032
+1,Northeast,1,Books,13,Literature,2014,18805.55,15127.71,2567
+1,Northeast,1,Books,13,Literature,2015,25233.6,20297.628,3427
+1,Northeast,1,Books,13,Literature,2016,28151.75,22639.188,3849
+1,Northeast,1,Books,14,Books - Miscellaneous,2014,19768.75,16489.512,2516
+1,Northeast,1,Books,14,Books - Miscellaneous,2015,25984.75,21621.431,3293
+1,Northeast,1,Books,14,Books - Miscellaneous,2016,30291.15,25177.932,3858
+1,Northeast,1,Books,15,Science & Technology,2014,50778.55,39287.885,1576
+1,Northeast,1,Books,15,Science & Technology,2015,67722.7,52349.271,2128
+1,Northeast,1,Books,15,Science & Technology,2016,82370.8,63450.114,2575
+1,Northeast,1,Books,16,Sports & Health,2014,22119.55,17229.979,1817
+1,Northeast,1,Books,16,Sports & Health,2015,27391.05,21317.439,2267
+1,Northeast,1,Books,16,Sports & Health,2016,32377.65,25074.205,2690
+1,Northeast,2,Electronics,21,Audio Equipment,2014,232999,193696.6896,994
+1,Northeast,2,Electronics,21,Audio Equipment,2015,310924,259466.0958,1337
+1,Northeast,2,Electronics,21,Audio Equipment,2016,374215,310027.5018,1535
+1,Northeast,2,Electronics,22,Cameras,2014,330208,271592.4778,740
+1,Northeast,2,Electronics,22,Cameras,2015,421112,345570.0044,942
+1,Northeast,2,Electronics,22,Cameras,2016,492491.5,404783.6884,1121
+1,Northeast,2,Electronics,23,Computers,2014,129690.95,107104.6474,1120
+1,Northeast,2,Electronics,23,Computers,2015,154010.7,126686.0608,1371
+1,Northeast,2,Electronics,23,Computers,2016,195864.8,161045.609,1679
+1,Northeast,2,Electronics,24,Electronics - Miscellaneous,2014,307502.6,254338.4942,871
+1,Northeast,2,Electronics,24,Electronics - Miscellaneous,2015,389480.1,321433.7768,1082
+1,Northeast,2,Electronics,24,Electronics - Miscellaneous,2016,464824.3,384526.144,1282
+1,Northeast,2,Electronics,25,TV's,2014,247639.6,203368.1114,1006
+1,Northeast,2,Electronics,25,TV's,2015,294899.15,242546.3298,1214
+1,Northeast,2,Electronics,25,TV's,2016,383639.4,314083.1884,1470
+1,Northeast,2,Electronics,26,Video Equipment,2014,323496,264655.2638,714
+1,Northeast,2,Electronics,26,Video Equipment,2015,425214,347730.3254,982
+1,Northeast,2,Electronics,26,Video Equipment,2016,484497.5,396749.2732,1081
+1,Northeast,3,Movies,31,Action,2014,39418.85,36975.1305,3128
+1,Northeast,3,Movies,31,Action,2015,49803,46697.0035,4004
+1,Northeast,3,Movies,31,Action,2016,59426.15,55812.3125,4788
+1,Northeast,3,Movies,32,Comedy,2014,43481.45,41319.7655,3469
+1,Northeast,3,Movies,32,Comedy,2015,54589.05,51764.942,4353
+1,Northeast,3,Movies,32,Comedy,2016,66370.15,62946.6605,5309
+1,Northeast,3,Movies,33,Drama,2014,43789.9,41122.3915,2935
+1,Northeast,3,Movies,33,Drama,2015,58438.95,54818.2215,3908
+1,Northeast,3,Movies,33,Drama,2016,66318,62184.845,4456
+1,Northeast,3,Movies,34,Horror,2014,41541.85,39030.7085,3384
+1,Northeast,3,Movies,34,Horror,2015,51685.85,48470.9625,4211
+1,Northeast,3,Movies,34,Horror,2016,62698.5,58772.9225,5092
+1,Northeast,3,Movies,35,Kids / Family,2014,42723.15,40137.9285,3026
+1,Northeast,3,Movies,35,Kids / Family,2015,54295.9,51054.877,3827
+1,Northeast,3,Movies,35,Kids / Family,2016,65216.2,61098.0845,4568
+1,Northeast,3,Movies,36,Special Interests,2014,51834.7,47887.265,2514
+1,Northeast,3,Movies,36,Special Interests,2015,66941.25,61796.1145,3239
+1,Northeast,3,Movies,36,Special Interests,2016,82988.15,76600.368,3983
+1,Northeast,4,Music,41,Alternative,2014,45215.8,44716.6953,3554
+1,Northeast,4,Music,41,Alternative,2015,57997.75,57178.5723,4510
+1,Northeast,4,Music,41,Alternative,2016,67967.95,67018.5864,5320
+1,Northeast,4,Music,42,Country,2014,46658.05,46207.3554,3432
+1,Northeast,4,Music,42,Country,2015,60378,59769.3582,4468
+1,Northeast,4,Music,42,Country,2016,72724.25,71719.5006,5325
+1,Northeast,4,Music,43,Music - Miscellaneous,2014,37096.25,33219.2412,2372
+1,Northeast,4,Music,43,Music - Miscellaneous,2015,48222.85,43212.5685,3098
+1,Northeast,4,Music,43,Music - Miscellaneous,2016,56377.55,50582.997,3636
+1,Northeast,4,Music,44,Pop,2014,43747.9,42433.5717,3180
+1,Northeast,4,Music,44,Pop,2015,55970.6,54277.0164,4050
+1,Northeast,4,Music,44,Pop,2016,65702.35,63705.7782,4786
+1,Northeast,4,Music,45,Rock,2014,44550.4,43868.2932,3351
+1,Northeast,4,Music,45,Rock,2015,58269.1,57345.3522,4382
+1,Northeast,4,Music,45,Rock,2016,67918.15,66815.55,5120
+1,Northeast,4,Music,46,Soul / R&B,2014,29698.25,25092.6057,2072
+1,Northeast,4,Music,46,Soul / R&B,2015,39833.5,33658.4628,2808
+1,Northeast,4,Music,46,Soul / R&B,2016,45394.95,38477.4696,3182
+6,Northwest,1,Books,11,Art & Architecture,2014,5913.05,4548.583,361
+6,Northwest,1,Books,11,Art & Architecture,2015,7923.6,6117.839,498
+6,Northwest,1,Books,11,Art & Architecture,2016,9742.35,7520.721,583
+6,Northwest,1,Books,12,Business,2014,5363,4172.701,391
+6,Northwest,1,Books,12,Business,2015,7257,5612.555,537
+6,Northwest,1,Books,12,Business,2016,7531.05,5846.711,551
+6,Northwest,1,Books,13,Literature,2014,4030.9,3230.942,531
+6,Northwest,1,Books,13,Literature,2015,5062.7,4046.38,684
+6,Northwest,1,Books,13,Literature,2016,5547.35,4446.91,752
+6,Northwest,1,Books,14,Books - Miscellaneous,2014,4371.55,3649.958,567
+6,Northwest,1,Books,14,Books - Miscellaneous,2015,5104.05,4224.051,649
+6,Northwest,1,Books,14,Books - Miscellaneous,2016,5458.9,4549.61,707
+6,Northwest,1,Books,15,Science & Technology,2014,9665,7486.83,317
+6,Northwest,1,Books,15,Science & Technology,2015,13789.95,10602.748,454
+6,Northwest,1,Books,15,Science & Technology,2016,14895.6,11455.158,491
+6,Northwest,1,Books,16,Sports & Health,2014,4715.5,3669.471,389
+6,Northwest,1,Books,16,Sports & Health,2015,6384.35,4956.302,527
+6,Northwest,1,Books,16,Sports & Health,2016,6419.25,5007.652,525
+6,Northwest,2,Electronics,21,Audio Equipment,2014,53055.5,44496.0162,218
+6,Northwest,2,Electronics,21,Audio Equipment,2015,69905.5,58253.9078,298
+6,Northwest,2,Electronics,21,Audio Equipment,2016,81779.5,68218.8694,328
+6,Northwest,2,Electronics,22,Cameras,2014,66157.5,54697.3488,142
+6,Northwest,2,Electronics,22,Cameras,2015,85765,70568.2872,197
+6,Northwest,2,Electronics,22,Cameras,2016,86262,70566.0884,191
+6,Northwest,2,Electronics,23,Computers,2014,25804.5,21363.5408,221
+6,Northwest,2,Electronics,23,Computers,2015,30483,25172.9618,256
+6,Northwest,2,Electronics,23,Computers,2016,39116.5,32549.9358,334
+6,Northwest,2,Electronics,24,Electronics - Miscellaneous,2014,59005.7,49048.6316,175
+6,Northwest,2,Electronics,24,Electronics - Miscellaneous,2015,68851.6,56996.1942,203
+6,Northwest,2,Electronics,24,Electronics - Miscellaneous,2016,83298.8,68656.4306,219
+6,Northwest,2,Electronics,25,TV's,2014,60037.2,49704.9734,228
+6,Northwest,2,Electronics,25,TV's,2015,67258.9,55239.353,247
+6,Northwest,2,Electronics,25,TV's,2016,84795.2,69093.9918,299
+6,Northwest,2,Electronics,26,Video Equipment,2014,74445,60921.0522,154
+6,Northwest,2,Electronics,26,Video Equipment,2015,100851,81907.4988,193
+6,Northwest,2,Electronics,26,Video Equipment,2016,97977.5,80083.5942,232
+6,Northwest,3,Movies,31,Action,2014,8304.5,7819.1395,659
+6,Northwest,3,Movies,31,Action,2015,10385.4,9750.757,834
+6,Northwest,3,Movies,31,Action,2016,11763.5,10990.362,928
+6,Northwest,3,Movies,32,Comedy,2014,9170.3,8736.2065,733
+6,Northwest,3,Movies,32,Comedy,2015,11345.75,10797.802,907
+6,Northwest,3,Movies,32,Comedy,2016,13045.15,12369.573,1044
+6,Northwest,3,Movies,33,Drama,2014,9258.1,8742.224,625
+6,Northwest,3,Movies,33,Drama,2015,11964.8,11261.1495,808
+6,Northwest,3,Movies,33,Drama,2016,13606.65,12729.4195,910
+6,Northwest,3,Movies,34,Horror,2014,8720.95,8187.4105,716
+6,Northwest,3,Movies,34,Horror,2015,10791.9,10125.0455,874
+6,Northwest,3,Movies,34,Horror,2016,12351.95,11575.263,1003
+6,Northwest,3,Movies,35,Kids / Family,2014,8834.5,8325.813,610
+6,Northwest,3,Movies,35,Kids / Family,2015,10974.65,10307.9775,757
+6,Northwest,3,Movies,35,Kids / Family,2016,12798.55,11985.6565,877
+6,Northwest,3,Movies,36,Special Interests,2014,10544.2,9754.3675,510
+6,Northwest,3,Movies,36,Special Interests,2015,13244.6,12228.7635,655
+6,Northwest,3,Movies,36,Special Interests,2016,13788.2,12717.3845,682
+6,Northwest,4,Music,41,Alternative,2014,10582.15,10446.0156,821
+6,Northwest,4,Music,41,Alternative,2015,12872.85,12700.134,1004
+6,Northwest,4,Music,41,Alternative,2016,13867.35,13658.3415,1080
+6,Northwest,4,Music,42,Country,2014,9423.7,9364.536,707
+6,Northwest,4,Music,42,Country,2015,11923.15,11812.3677,880
+6,Northwest,4,Music,42,Country,2016,14212.65,14091.3477,1050
+6,Northwest,4,Music,43,Music - Miscellaneous,2014,8224.05,7465.7313,568
+6,Northwest,4,Music,43,Music - Miscellaneous,2015,10719.6,9572.7519,673
+6,Northwest,4,Music,43,Music - Miscellaneous,2016,11679.7,10491.5952,765
+6,Northwest,4,Music,44,Pop,2014,9442.9,9180.1458,689
+6,Northwest,4,Music,44,Pop,2015,11309.5,10908.027,812
+6,Northwest,4,Music,44,Pop,2016,13316.6,12890.7396,960
+6,Northwest,4,Music,45,Rock,2014,9204.45,9083.8071,696
+6,Northwest,4,Music,45,Rock,2015,11691.6,11534.7465,882
+6,Northwest,4,Music,45,Rock,2016,13888.55,13664.5569,1042
+6,Northwest,4,Music,46,Soul / R&B,2014,6202.2,5263.4079,434
+6,Northwest,4,Music,46,Soul / R&B,2015,8135.15,6883.5555,572
+6,Northwest,4,Music,46,Soul / R&B,2016,9572.35,8101.7739,667
+5,South,1,Books,11,Art & Architecture,2014,18923.6,14557.725,1150
+5,South,1,Books,11,Art & Architecture,2015,24904.85,19281.925,1539
+5,South,1,Books,11,Art & Architecture,2016,30326.65,23437.167,1865
+5,South,1,Books,12,Business,2014,16908.1,13162.032,1236
+5,South,1,Books,12,Business,2015,20028.8,15666.885,1474
+5,South,1,Books,12,Business,2016,24368.1,18967.663,1794
+5,South,1,Books,13,Literature,2014,11459.15,9223.487,1568
+5,South,1,Books,13,Literature,2015,15080.7,12182.274,2065
+5,South,1,Books,13,Literature,2016,18416.6,14804.205,2476
+5,South,1,Books,14,Books - Miscellaneous,2014,12778.5,10592.478,1602
+5,South,1,Books,14,Books - Miscellaneous,2015,15770.6,13234.949,2073
+5,South,1,Books,14,Books - Miscellaneous,2016,19806,16531.619,2501
+5,South,1,Books,15,Science & Technology,2014,33181.1,25715.053,1110
+5,South,1,Books,15,Science & Technology,2015,41247.2,32126.614,1300
+5,South,1,Books,15,Science & Technology,2016,50351,39018.811,1551
+5,South,1,Books,16,Sports & Health,2014,14524,11240.515,1200
+5,South,1,Books,16,Sports & Health,2015,16729.9,13009.009,1393
+5,South,1,Books,16,Sports & Health,2016,21305.25,16552.159,1762
+5,South,2,Electronics,21,Audio Equipment,2014,154631,128453.896,660
+5,South,2,Electronics,21,Audio Equipment,2015,196232.5,164413.0712,827
+5,South,2,Electronics,21,Audio Equipment,2016,226675,188430.5636,972
+5,South,2,Electronics,22,Cameras,2014,202818.5,166209.4908,461
+5,South,2,Electronics,22,Cameras,2015,269358,222072.2036,613
+5,South,2,Electronics,22,Cameras,2016,315025,259853.0846,710
+5,South,2,Electronics,23,Computers,2014,86243.05,70788.1672,710
+5,South,2,Electronics,23,Computers,2015,95340.8,78956.7092,847
+5,South,2,Electronics,23,Computers,2016,119037.05,98174.2212,1031
+5,South,2,Electronics,24,Electronics - Miscellaneous,2014,177551.4,146214.703,498
+5,South,2,Electronics,24,Electronics - Miscellaneous,2015,219377.1,183362.3296,653
+5,South,2,Electronics,24,Electronics - Miscellaneous,2016,280537.9,231353.3384,808
+5,South,2,Electronics,25,TV's,2014,156559.5,128898.0536,618
+5,South,2,Electronics,25,TV's,2015,213919.65,176522.9622,796
+5,South,2,Electronics,25,TV's,2016,245018.7,201999.3584,986
+5,South,2,Electronics,26,Video Equipment,2014,207087,169242.7354,440
+5,South,2,Electronics,26,Video Equipment,2015,279282,229444.78,616
+5,South,2,Electronics,26,Video Equipment,2016,297058.5,243382.9732,693
+5,South,3,Movies,31,Action,2014,24896.95,23352.714,1994
+5,South,3,Movies,31,Action,2015,30946.35,29125.9035,2459
+5,South,3,Movies,31,Action,2016,38361,36037.604,3046
+5,South,3,Movies,32,Comedy,2014,27488.8,26061.7925,2206
+5,South,3,Movies,32,Comedy,2015,34327.2,32830.2765,2764
+5,South,3,Movies,32,Comedy,2016,42737.2,40594.055,3418
+5,South,3,Movies,33,Drama,2014,27769.65,26038.926,1857
+5,South,3,Movies,33,Drama,2015,35540.25,33500.626,2398
+5,South,3,Movies,33,Drama,2016,44643,41932.347,2998
+5,South,3,Movies,34,Horror,2014,26326.2,24687.3955,2136
+5,South,3,Movies,34,Horror,2015,32817.5,30921.5255,2677
+5,South,3,Movies,34,Horror,2016,40242.6,37752.5915,3270
+5,South,3,Movies,35,Kids / Family,2014,27590.75,25881.2675,1947
+5,South,3,Movies,35,Kids / Family,2015,34815.2,32848.329,2465
+5,South,3,Movies,35,Kids / Family,2016,41491.8,39053.575,2930
+5,South,3,Movies,36,Special Interests,2014,32526,30032.139,1563
+5,South,3,Movies,36,Special Interests,2015,43332.05,40194.493,2086
+5,South,3,Movies,36,Special Interests,2016,50201.35,46367.2445,2441
+5,South,4,Music,41,Alternative,2014,28218.35,27792.1611,2205
+5,South,4,Music,41,Alternative,2015,37266.85,36891.5067,2917
+5,South,4,Music,41,Alternative,2016,43818.25,43279.902,3420
+5,South,4,Music,42,Country,2014,29181.4,28723.4352,2139
+5,South,4,Music,42,Country,2015,39068.3,38972.6298,2917
+5,South,4,Music,42,Country,2016,45510.55,45033.6807,3369
+5,South,4,Music,43,Music - Miscellaneous,2014,23649.5,21160.3293,1500
+5,South,4,Music,43,Music - Miscellaneous,2015,32413.3,29254.8519,2053
+5,South,4,Music,43,Music - Miscellaneous,2016,38037.85,34277.931,2469
+5,South,4,Music,44,Pop,2014,28236.2,27319.7907,2032
+5,South,4,Music,44,Pop,2015,35172.75,34417.7775,2580
+5,South,4,Music,44,Pop,2016,43436.15,42283.3662,3176
+5,South,4,Music,45,Rock,2014,28290.25,27868.8177,2128
+5,South,4,Music,45,Rock,2015,35342.75,34990.6302,2677
+5,South,4,Music,45,Rock,2016,44103.3,43389.7074,3338
+5,South,4,Music,46,Soul / R&B,2014,18927.65,16007.7627,1325
+5,South,4,Music,46,Soul / R&B,2015,24504.35,20823.6618,1725
+5,South,4,Music,46,Soul / R&B,2016,30185.95,25546.3299,2145
+3,Southeast,1,Books,11,Art & Architecture,2014,7559.05,5836.441,494
+3,Southeast,1,Books,11,Art & Architecture,2015,10346.25,7977.736,640
+3,Southeast,1,Books,11,Art & Architecture,2016,12407.7,9587.045,764
+3,Southeast,1,Books,12,Business,2014,7188.45,5592.015,524
+3,Southeast,1,Books,12,Business,2015,9257.95,7230.08,673
+3,Southeast,1,Books,12,Business,2016,9644.8,7517.64,714
+3,Southeast,1,Books,13,Literature,2014,5117.15,4091.568,705
+3,Southeast,1,Books,13,Literature,2015,6384.45,5118.568,861
+3,Southeast,1,Books,13,Literature,2016,7473.3,6003.842,1025
+3,Southeast,1,Books,14,Books - Miscellaneous,2014,5914.15,4883.385,746
+3,Southeast,1,Books,14,Books - Miscellaneous,2015,6901.75,5752.227,864
+3,Southeast,1,Books,14,Books - Miscellaneous,2016,8590.9,7148.947,1074
+3,Southeast,1,Books,15,Science & Technology,2014,14831,11479.806,441
+3,Southeast,1,Books,15,Science & Technology,2015,16416.95,12728.638,525
+3,Southeast,1,Books,15,Science & Technology,2016,21293.85,16486.431,658
+3,Southeast,1,Books,16,Sports & Health,2014,5896.6,4559.88,482
+3,Southeast,1,Books,16,Sports & Health,2015,7186.65,5586.88,599
+3,Southeast,1,Books,16,Sports & Health,2016,8033.7,6244.16,678
+3,Southeast,2,Electronics,21,Audio Equipment,2014,71638,59418.1724,285
+3,Southeast,2,Electronics,21,Audio Equipment,2015,77097.5,64518.289,348
+3,Southeast,2,Electronics,21,Audio Equipment,2016,100572,83876.5242,408
+3,Southeast,2,Electronics,22,Cameras,2014,77985,64977.8382,182
+3,Southeast,2,Electronics,22,Cameras,2015,119699.5,98414.9898,257
+3,Southeast,2,Electronics,22,Cameras,2016,117569,96334.925,270
+3,Southeast,2,Electronics,23,Computers,2014,33437.7,27406.9426,300
+3,Southeast,2,Electronics,23,Computers,2015,44920.6,37302.642,403
+3,Southeast,2,Electronics,23,Computers,2016,49853.6,41232.997,424
+3,Southeast,2,Electronics,24,Electronics - Miscellaneous,2014,75925.5,62882.3818,213
+3,Southeast,2,Electronics,24,Electronics - Miscellaneous,2015,105350.4,87540.8244,300
+3,Southeast,2,Electronics,24,Electronics - Miscellaneous,2016,120632,99102.1148,328
+3,Southeast,2,Electronics,25,TV's,2014,64631,53335.1922,260
+3,Southeast,2,Electronics,25,TV's,2015,81259.2,66702.7968,328
+3,Southeast,2,Electronics,25,TV's,2016,90883.9,74888.9292,386
+3,Southeast,2,Electronics,26,Video Equipment,2014,88449,72266.8602,204
+3,Southeast,2,Electronics,26,Video Equipment,2015,101265.5,82714.4584,233
+3,Southeast,2,Electronics,26,Video Equipment,2016,130838,107257.464,289
+3,Southeast,3,Movies,31,Action,2014,11755.2,11015.6355,935
+3,Southeast,3,Movies,31,Action,2015,14118.9,13321.5415,1143
+3,Southeast,3,Movies,31,Action,2016,15608.95,14748.8925,1274
+3,Southeast,3,Movies,32,Comedy,2014,11228.05,10642.5505,892
+3,Southeast,3,Movies,32,Comedy,2015,14941.4,14173.6195,1200
+3,Southeast,3,Movies,32,Comedy,2016,17368.2,16497.578,1393
+3,Southeast,3,Movies,33,Drama,2014,11301.3,10644.9575,755
+3,Southeast,3,Movies,33,Drama,2015,14591.15,13728.3245,986
+3,Southeast,3,Movies,33,Drama,2016,18495.15,17359.284,1247
+3,Southeast,3,Movies,34,Horror,2014,10628.95,9945.724,866
+3,Southeast,3,Movies,34,Horror,2015,13412.9,12569.354,1099
+3,Southeast,3,Movies,34,Horror,2016,15645.6,14681.4965,1267
+3,Southeast,3,Movies,35,Kids / Family,2014,11332.05,10713.557,803
+3,Southeast,3,Movies,35,Kids / Family,2015,14449.6,13638.062,1022
+3,Southeast,3,Movies,35,Kids / Family,2016,16880.6,15870.5545,1193
+3,Southeast,3,Movies,36,Special Interests,2014,13876.8,12751.0825,654
+3,Southeast,3,Movies,36,Special Interests,2015,17756.4,16335.1055,849
+3,Southeast,3,Movies,36,Special Interests,2016,20894.65,19311.361,1017
+3,Southeast,4,Music,41,Alternative,2014,12032.15,11828.9421,948
+3,Southeast,4,Music,41,Alternative,2015,16004.65,15825.4443,1255
+3,Southeast,4,Music,41,Alternative,2016,17576.15,17405.1918,1384
+3,Southeast,4,Music,42,Country,2014,12556.3,12458.7693,937
+3,Southeast,4,Music,42,Country,2015,15704.8,15594.4386,1164
+3,Southeast,4,Music,42,Country,2016,18793,18614.0871,1392
+3,Southeast,4,Music,43,Music - Miscellaneous,2014,11001.65,9842.0859,699
+3,Southeast,4,Music,43,Music - Miscellaneous,2015,13254,11855.8755,840
+3,Southeast,4,Music,43,Music - Miscellaneous,2016,15309.15,13803.3675,1021
+3,Southeast,4,Music,44,Pop,2014,11936.05,11578.2543,870
+3,Southeast,4,Music,44,Pop,2015,14384.95,13941.1422,1042
+3,Southeast,4,Music,44,Pop,2016,18773,18165.5424,1366
+3,Southeast,4,Music,45,Rock,2014,12468.35,12217.4046,927
+3,Southeast,4,Music,45,Rock,2015,15158.2,14897.2779,1134
+3,Southeast,4,Music,45,Rock,2016,18090.55,17778.1158,1361
+3,Southeast,4,Music,46,Soul / R&B,2014,7991.95,6744.7449,557
+3,Southeast,4,Music,46,Soul / R&B,2015,9800.9,8298.5949,687
+3,Southeast,4,Music,46,Soul / R&B,2016,12377.35,10478.1285,871
+7,Southwest,1,Books,11,Art & Architecture,2014,13358.65,10345.998,863
+7,Southwest,1,Books,11,Art & Architecture,2015,17995.1,13844.987,1081
+7,Southwest,1,Books,11,Art & Architecture,2016,19813.8,15221.167,1217
+7,Southwest,1,Books,12,Business,2014,10632.35,8298.16,774
+7,Southwest,1,Books,12,Business,2015,14899.35,11576.344,1087
+7,Southwest,1,Books,12,Business,2016,17794.55,13821.366,1301
+7,Southwest,1,Books,13,Literature,2014,8325.9,6723.769,1121
+7,Southwest,1,Books,13,Literature,2015,10556.1,8473.777,1430
+7,Southwest,1,Books,13,Literature,2016,12857.55,10328.539,1744
+7,Southwest,1,Books,14,Books - Miscellaneous,2014,9345.9,7780.552,1166
+7,Southwest,1,Books,14,Books - Miscellaneous,2015,11197.2,9261.486,1390
+7,Southwest,1,Books,14,Books - Miscellaneous,2016,12951.05,10779.392,1649
+7,Southwest,1,Books,15,Science & Technology,2014,22461,17300.842,721
+7,Southwest,1,Books,15,Science & Technology,2015,29487.45,22741.888,943
+7,Southwest,1,Books,15,Science & Technology,2016,33425.8,25898.886,1092
+7,Southwest,1,Books,16,Sports & Health,2014,9561.95,7408.778,785
+7,Southwest,1,Books,16,Sports & Health,2015,11675,9057.113,957
+7,Southwest,1,Books,16,Sports & Health,2016,14457.75,11236.407,1206
+7,Southwest,2,Electronics,21,Audio Equipment,2014,104232,86942.7508,465
+7,Southwest,2,Electronics,21,Audio Equipment,2015,137795,114528.8956,565
+7,Southwest,2,Electronics,21,Audio Equipment,2016,156252,130526.265,656
+7,Southwest,2,Electronics,22,Cameras,2014,140581.5,115776.7146,310
+7,Southwest,2,Electronics,22,Cameras,2015,181142.5,147707.6882,398
+7,Southwest,2,Electronics,22,Cameras,2016,199602,164053.5674,462
+7,Southwest,2,Electronics,23,Computers,2014,52759.85,43495.5622,462
+7,Southwest,2,Electronics,23,Computers,2015,67773.2,55891.2972,598
+7,Southwest,2,Electronics,23,Computers,2016,79063.55,65004.2238,687
+7,Southwest,2,Electronics,24,Electronics - Miscellaneous,2014,132583.6,109647.5596,355
+7,Southwest,2,Electronics,24,Electronics - Miscellaneous,2015,165110.8,135594.499,476
+7,Southwest,2,Electronics,24,Electronics - Miscellaneous,2016,193278.2,159857.1576,552
+7,Southwest,2,Electronics,25,TV's,2014,118505.5,97267.2162,453
+7,Southwest,2,Electronics,25,TV's,2015,136754.45,112124.5078,545
+7,Southwest,2,Electronics,25,TV's,2016,159327.15,130687.8768,644
+7,Southwest,2,Electronics,26,Video Equipment,2014,150305,123925.4674,342
+7,Southwest,2,Electronics,26,Video Equipment,2015,174974.5,142576.7884,373
+7,Southwest,2,Electronics,26,Video Equipment,2016,212019,172478.2696,458
+7,Southwest,3,Movies,31,Action,2014,17945.75,16875.477,1451
+7,Southwest,3,Movies,31,Action,2015,22372.2,20936.086,1777
+7,Southwest,3,Movies,31,Action,2016,25488.8,23954.464,2035
+7,Southwest,3,Movies,32,Comedy,2014,19876.5,18886.5255,1589
+7,Southwest,3,Movies,32,Comedy,2015,23619,22403.1525,1887
+7,Southwest,3,Movies,32,Comedy,2016,29576.2,28078.8585,2362
+7,Southwest,3,Movies,33,Drama,2014,21185.6,19893.855,1417
+7,Southwest,3,Movies,33,Drama,2015,24893.9,23346.6965,1672
+7,Southwest,3,Movies,33,Drama,2016,28901,27197.8965,1941
+7,Southwest,3,Movies,34,Horror,2014,17862.55,16759.941,1469
+7,Southwest,3,Movies,34,Horror,2015,23567.8,22038.492,1922
+7,Southwest,3,Movies,34,Horror,2016,26556.25,24857.089,2153
+7,Southwest,3,Movies,35,Kids / Family,2014,18774.2,17643.31,1316
+7,Southwest,3,Movies,35,Kids / Family,2015,21819.6,20473.942,1520
+7,Southwest,3,Movies,35,Kids / Family,2016,27338.2,25658.62,1943
+7,Southwest,3,Movies,36,Special Interests,2014,23638.5,21801.4025,1121
+7,Southwest,3,Movies,36,Special Interests,2015,29592.05,27211.135,1407
+7,Southwest,3,Movies,36,Special Interests,2016,32863.05,30280.06,1604
+7,Southwest,4,Music,41,Alternative,2014,20509.05,20225.9475,1606
+7,Southwest,4,Music,41,Alternative,2015,25492.25,25125.7545,1982
+7,Southwest,4,Music,41,Alternative,2016,30495.45,30102.2181,2375
+7,Southwest,4,Music,42,Country,2014,20141.9,19966.9725,1514
+7,Southwest,4,Music,42,Country,2015,25880.4,25730.7201,1958
+7,Southwest,4,Music,42,Country,2016,31670.15,31321.4724,2329
+7,Southwest,4,Music,43,Music - Miscellaneous,2014,16805.15,15167.6478,1118
+7,Southwest,4,Music,43,Music - Miscellaneous,2015,20884.4,18695.9232,1335
+7,Southwest,4,Music,43,Music - Miscellaneous,2016,25734.45,22957.6158,1661
+7,Southwest,4,Music,44,Pop,2014,20288.25,19795.0131,1494
+7,Southwest,4,Music,44,Pop,2015,24566.65,23915.8233,1799
+7,Southwest,4,Music,44,Pop,2016,29465.55,28514.1834,2122
+7,Southwest,4,Music,45,Rock,2014,20053.9,19785.69,1517
+7,Southwest,4,Music,45,Rock,2015,25186.2,24750.7587,1893
+7,Southwest,4,Music,45,Rock,2016,29053.25,28623.9888,2197
+7,Southwest,4,Music,46,Soul / R&B,2014,13175.55,11188.7559,925
+7,Southwest,4,Music,46,Soul / R&B,2015,16612.05,14055.0912,1163
+7,Southwest,4,Music,46,Soul / R&B,2016,19399.7,16394.1534,1366
+12,Web,1,Books,11,Art & Architecture,2014,6555.7,5076.461,409
+12,Web,1,Books,11,Art & Architecture,2015,13850.85,10694.151,864
+12,Web,1,Books,11,Art & Architecture,2016,32190.95,24801.023,1941
+12,Web,1,Books,12,Business,2014,5739.5,4443.829,421
+12,Web,1,Books,12,Business,2015,12399.45,9650.719,904
+12,Web,1,Books,12,Business,2016,25762,20081.958,1910
+12,Web,1,Books,13,Literature,2014,4146.5,3327.48,575
+12,Web,1,Books,13,Literature,2015,8653.2,6973.33,1180
+12,Web,1,Books,13,Literature,2016,19921.65,16038.659,2703
+12,Web,1,Books,14,Books - Miscellaneous,2014,4584.45,3794.765,572
+12,Web,1,Books,14,Books - Miscellaneous,2015,9319.05,7742.553,1163
+12,Web,1,Books,14,Books - Miscellaneous,2016,20785.5,17323.436,2634
+12,Web,1,Books,15,Science & Technology,2014,13281.95,10259.73,405
+12,Web,1,Books,15,Science & Technology,2015,25620.4,19848.829,803
+12,Web,1,Books,15,Science & Technology,2016,53935.95,41613.013,1716
+12,Web,1,Books,16,Sports & Health,2014,4624.4,3581.149,378
+12,Web,1,Books,16,Sports & Health,2015,9688.2,7501.208,805
+12,Web,1,Books,16,Sports & Health,2016,21595.2,16832.53,1797
+12,Web,2,Electronics,21,Audio Equipment,2014,45854,38040.3394,217
+12,Web,2,Electronics,21,Audio Equipment,2015,118324.5,98270.9684,481
+12,Web,2,Electronics,21,Audio Equipment,2016,272655,227991.3732,1073
+12,Web,2,Electronics,22,Cameras,2014,70185.5,57887.8076,166
+12,Web,2,Electronics,22,Cameras,2015,168832.5,139082.8952,365
+12,Web,2,Electronics,22,Cameras,2016,349362,287767.95,809
+12,Web,2,Electronics,23,Computers,2014,26321.55,21856.072,234
+12,Web,2,Electronics,23,Computers,2015,52466.6,43435.0952,485
+12,Web,2,Electronics,23,Computers,2016,126651.65,104937.73,1116
+12,Web,2,Electronics,24,Electronics - Miscellaneous,2014,61573.9,51210.052,188
+12,Web,2,Electronics,24,Electronics - Miscellaneous,2015,127793.2,105744.6896,382
+12,Web,2,Electronics,24,Electronics - Miscellaneous,2016,347658.9,287362.2714,931
+12,Web,2,Electronics,25,TV's,2014,54264.5,45052.3126,212
+12,Web,2,Electronics,25,TV's,2015,103540.2,85278.2592,434
+12,Web,2,Electronics,25,TV's,2016,245400.95,202640.3086,975
+12,Web,2,Electronics,26,Video Equipment,2014,62497.5,51623.4264,146
+12,Web,2,Electronics,26,Video Equipment,2015,147860,120827.3582,352
+12,Web,2,Electronics,26,Video Equipment,2016,343679.5,282120.3322,783
+12,Web,3,Movies,31,Action,2014,8779.9,8254.8065,708
+12,Web,3,Movies,31,Action,2015,17855.65,16802.0635,1439
+12,Web,3,Movies,31,Action,2016,42048.85,39545.8065,3361
+12,Web,3,Movies,32,Comedy,2014,9266.85,8827.6725,743
+12,Web,3,Movies,32,Comedy,2015,19153.6,18288.386,1561
+12,Web,3,Movies,32,Comedy,2016,44745.1,42632.784,3602
+12,Web,3,Movies,33,Drama,2014,9502.7,8963.668,649
+12,Web,3,Movies,33,Drama,2015,20937.5,19725.365,1420
+12,Web,3,Movies,33,Drama,2016,47590.6,44827.968,3215
+12,Web,3,Movies,34,Horror,2014,8649,8115.2005,702
+12,Web,3,Movies,34,Horror,2015,17727.8,16696.1555,1449
+12,Web,3,Movies,34,Horror,2016,42140.4,39607.185,3434
+12,Web,3,Movies,35,Kids / Family,2014,8987.45,8477.454,633
+12,Web,3,Movies,35,Kids / Family,2015,18767.8,17663.7695,1318
+12,Web,3,Movies,35,Kids / Family,2016,45895.8,43212.871,3221
+12,Web,3,Movies,36,Special Interests,2014,11197.8,10364.542,557
+12,Web,3,Movies,36,Special Interests,2015,23904,22135.9755,1140
+12,Web,3,Movies,36,Special Interests,2016,54801.25,50728.7285,2656
+12,Web,4,Music,41,Alternative,2014,10163.35,10057.5531,801
+12,Web,4,Music,41,Alternative,2015,21086.9,20814.3387,1648
+12,Web,4,Music,41,Alternative,2016,47294.35,46737.7362,3694
+12,Web,4,Music,42,Country,2014,9966.8,10036.8351,753
+12,Web,4,Music,42,Country,2015,20149.95,20047.7727,1521
+12,Web,4,Music,42,Country,2016,49184.95,48769.1361,3634
+12,Web,4,Music,43,Music - Miscellaneous,2014,8188.4,7273.0539,503
+12,Web,4,Music,43,Music - Miscellaneous,2015,17783.9,15914.5317,1144
+12,Web,4,Music,43,Music - Miscellaneous,2016,40724.25,36564.1623,2607
+12,Web,4,Music,44,Pop,2014,10075.85,9798.5781,736
+12,Web,4,Music,44,Pop,2015,20861.6,20334.717,1531
+12,Web,4,Music,44,Pop,2016,46270.95,44965.3113,3371
+12,Web,4,Music,45,Rock,2014,10092.55,9941.5323,756
+12,Web,4,Music,45,Rock,2015,20660.25,20359.5786,1560
+12,Web,4,Music,45,Rock,2016,47528.3,46825.7877,3590
+12,Web,4,Music,46,Soul / R&B,2014,6976.4,5910.8454,492
+12,Web,4,Music,46,Soul / R&B,2015,14194.8,12022.6554,994
+12,Web,4,Music,46,Soul / R&B,2016,32069.6,27265.9239,2237
